@@ -1,6 +1,6 @@
 # Azure Hub and Spoke deployment
 
-This will deploy a spimple hub and spoke architectire. Greate for a quick PoC up and running.
+This will deploy a spimple hub and spoke architectire. Greate for getting a quick PoC up and running.
 
 # Requirements
 
