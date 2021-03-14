@@ -17,3 +17,17 @@ Az login
 Az account set -s <subscription id>
 ```
 
+Change the variables in the terraform.tfvars file to you preference.
+
+```
+Terraform init
+Terraform plan -out=<your plan name>
+Terraform apply <your plan name>
+```
+
+# Clean up
+Rember to clean up when you are done :-)
+
+```
+Terraform destroy
+```
