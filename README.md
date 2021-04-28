@@ -21,7 +21,7 @@ Change the variables in the terraform.tfvars file to you preference.
 
 ```
 Terraform init
-Terraform plan -out=<your plan name>
+Terraform plan -out <your plan name>
 Terraform apply <your plan name>
 ```
 
